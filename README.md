@@ -3,7 +3,7 @@
 如果你希望参与这个项目，请做到：  
 - 和平，不要填写带有攻击，辱骂，歧视意味的内容
 - 互助，在填写内容的同时也请帮你认为需要的需求提交反馈
-
+- 遵循Markdown格式
   
 反馈表：  
 - [简体中文](https://github.com/lvyin555/mhwsfeedback/blob/main/cn.md)  
