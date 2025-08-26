@@ -6,7 +6,8 @@
 - 无论您使用何种语言，请尽可能使用官方术语（只要是用过的都行）
 - 遵循Markdown格式
   
-反馈表（请帮助我支持更多语言）：  
+反馈表（请帮助我支持更多语言）： 
+- [English](https://github.com/lvyin555/mhwsfeedback/blob/main/cn.md)  
 - [简体中文](https://github.com/lvyin555/mhwsfeedback/blob/main/cn.md)  
 
 本文档仅用于收录问题与意见，与 Capcom 无关，请登录[咨询表格](https://www.monsterhunter.com/support/wilds/zh-hans/form/consent)提交你的反馈需求，或帮助他人提交助力
