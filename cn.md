@@ -5,14 +5,14 @@ Ver.1.021.03.0
 
 
 ### 怪物相关
-<details> <summary>展开</summary>  
+<details open> <summary>展开</summary>  
   
-  - 
+  - 请修复狱焰蛸穿过墙壁缝隙时可能会导致动画消失的问题。
 
 </details>
   
 ### 玩家相关
-<details> <summary>展开</summary>
+<details open> <summary>展开</summary>
   
 #### 通用  
   - 请修复在进行使用部分道具、力尽倒下并返回营地等一些动作时无法打开菜单的问题。
@@ -88,7 +88,7 @@ Ver.1.021.03.0
 </details>
 
 ### 据点/设施相关
-<details> <summary>展开</summary>
+<details open> <summary>展开</summary>
   
   - 请修复在手柄“确定操作设置”为类型2（Xbox为B、PS为○、NS为A）椅子上坐下时与聆听歌姬献唱时，退出键错误的设置为为确认键的问题。
   - 请修复在一些类型的椅子上无法打开菜单的问题 。
@@ -98,7 +98,7 @@ Ver.1.021.03.0
 </details>
 
 ### 其他
-<details> <summary>展开</summary>
+<details open> <summary>展开</summary>
   
 #### 系统
   - 请优化退出“猎人资料”的黑屏加载时间。
@@ -120,14 +120,14 @@ Ver.1.021.03.0
 带有*为新增项
 
 ### 怪物相关
-<details> <summary>展开</summary>
+<details open> <summary>展开</summary>
   
   - 请追加雌火龙，火龙，护火龙的头部部位破坏与雌火龙的背部部位破坏，在雌火龙的背部或尾部被破坏/切断后会削弱其用毒能力，而在雌火龙的背部被破坏与尾巴被切断后会完全丧失用毒能力。
   -
 </details>
 
 ### 玩家相关
-<details> <summary>展开</summary>
+<details open> <summary>展开</summary>
   
 #### 通用
   - 请追加在收刀攀爬时可以使用猎人小刀或武器进行攻击的功能。
@@ -208,7 +208,7 @@ Ver.1.021.03.0
 </details>
   
 ### 据点/设施相关
-<details> <summary>展开</summary>
+<details open> <summary>展开</summary>
   
   - 设施页面整理排序优化
     <details> <summary>展开</summary>
@@ -298,7 +298,7 @@ Ver.1.021.03.0
 </details>
 
 ### 任务
-<details> <summary>展开</summary>
+<details open> <summary>展开</summary>
   
   - 请追加调查任务的保存数量上限。
   - 请追加消耗一定调查点数，将实地调查任务中被捕获的怪物转移至龙谷遗址，额外生成“龙谷遗址调查任务”的功能。
@@ -306,7 +306,7 @@ Ver.1.021.03.0
 </details>
 
 ### 系统
-<details> <summary>展开</summary>
+<details open> <summary>展开</summary>
 
   - 请提升装备箱与已捕获环境生物的存储容量上限。
   - 请增加快捷轮盘组的另一种选择方式，方向键8个方向对应8个轮盘组，只需要按下一次就可以确定位置。
