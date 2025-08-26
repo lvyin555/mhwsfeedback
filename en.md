@@ -91,10 +91,10 @@
 ### 🏘️Camp/Facility Related
 <details open> <summary>Expand</summary>
   
-  - 请修复在手柄“确定操作设置”为类型2（Xbox为B、PS为○、NS为A）椅子上坐下时与聆听歌姬献唱时，退出键错误的设置为为确认键的问题。
-  - 请修复在一些类型的椅子上无法打开菜单的问题 。
-  - 请修复在一些类型的椅子上无法调用快捷轮盘的问题 。
-  - Black screen when entering/leaving the tent in the Camp.
+  - Please fix the issue where the Exit button was incorrectly set to the Confirm button when sitting on a chair or listening to a Diva performance when the controller's "Confirm Operation Setting" was type 2 (B for Xbox, ○ for PS, A for NS).
+  - Please fix the issue where the menu cannot be opened on some types of chairs.
+  - Please fix the issue where the Radial Menu cannot be displayed on some types of chairs.
+  - Please remove the black screen when entering the temporary tent.
   - 
 </details>
 
@@ -102,8 +102,8 @@
 <details open> <summary>Expand</summary>
   
 #### ⚙️System
-  - Long loading times when exiting the Hunter Profile
-  - 请优化游戏的滤镜表现。
+  - Please fix the issue where some interfaces such as Hunter Profile take too long to load.
+  - Please optimize the game's filter effects to improve the display quality.
   - 
   
 #### 🌐Network
@@ -113,7 +113,7 @@
   -
 
 #### 🗒️Other
-  - 请修复简体中文“日珥弓”被翻译为“日饵弓”的文本问题。
+  - Please fix the text issue where the simplified Chinese "日珥弓" was translated as "日饵弓".
   - 
 </details>
 
@@ -123,7 +123,7 @@ Newly added items are marked with a '*'
 ### 🦖Monster Related
 <details open> <summary>Expand</summary>
   
-  - 请追加雌火龙，火龙，护火龙的头部部位破坏与雌火龙的背部部位破坏，在雌火龙的背部或尾部被破坏/切断后会削弱其用毒能力，而在雌火龙的背部被破坏与尾巴被切断后会完全丧失用毒能力。
+  - Please add head damage to Rathian, Rathalos, and Guardian Rathalos. Add back damage to Rathian: If Rathian's back or tail is cut off, its ability to use poison will be weakened. If both its tail and back are destroyed, it will be completely unable to use poison.
   -
 </details>
 
@@ -131,9 +131,9 @@ Newly added items are marked with a '*'
 <details open> <summary>Expand</summary>
   
 #### 📝General
-  - 请追加在收刀攀爬时可以使用猎人小刀或武器进行攻击的功能。
-  - 请追加在集中模式下，在招式连段中更快的穿插使用拔刀投射器的功能。
-  - 请追加在收刀状态下瞄准时投掷小桶爆弹、捕获用麻醉球、烟雾球、毒烟雾球等道具的功能。
+  - Please add the ability to use the hunter knife or other weapons to attack while climbing with the knife sheathed.
+  - Please add the ability to more quickly interweave the use of the Slinger into a move combo in Focus Mode.
+  - Please add the ability to throw Barrel Bomb, Tranq Bomb, Smoke Bomb, Poison Smoke Bomb, etc. when aiming with the sword sheathed.
   - 
 
 #### 🤿Underwater Combat
@@ -328,3 +328,4 @@ Newly added items are marked with a '*'
   - 
 
 </details>
+
