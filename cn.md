@@ -217,7 +217,7 @@
 ### 🏘️据点/设施相关
 <details open> <summary>展开</summary>
   
-  - 设施页面整理排序优化
+  - 设施菜单整理排序优化
     <details> <summary>展开</summary>
       
     - 道具箱
