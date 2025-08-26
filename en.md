@@ -137,9 +137,9 @@ Newly added items are marked with a '*'
   - 
 
 #### 🤿Underwater Combat
-  - 请延长使用钩锁投射器进行爪缚时钩索的最远距离。
-  - 请追加在水下使用砥石与坚硬竹夹鱼的鳍磨刀的功能。
-  - 请优化手柄的水下操作：在水中使用R1进行加速，使用R2配合左摇杆控制上浮/下潜。
+  - Please increase the maximum distance that Slinger's Clutch Claw can be launched when catching a monster underwater.
+  - Please add the function of sharpening the knife underwater.
+  - Please optimize underwater operations：Use R1 to accelerate in the water, and use R2 with the left stick to control ascent/dive.
   - 
 
 #### Great Sword
@@ -193,7 +193,7 @@ Newly added items are marked with a '*'
   -
 
 #### 🐱Palico
-  - 请追加开启与关闭随从支援动作的功能。
+  - Please add the ability to turn each Palico Gadget on and off.
   - 请追加第二个战斗随从，如招募森狸人等。
   - 
 
@@ -203,15 +203,15 @@ Newly added items are marked with a '*'
   - 
 
 #### 🐣Seikret
-  - 请使鹭鹰龙奔跑时玩家进行使用道具、采集素材、打开地图等行为不会打断鹭鹰龙的奔跑动作。
-  - 请追加在鹭鹰龙背上剥取怪物，采集稀有特产的动作。
+  - Please make sure that the player can use props, collect materials, open the map, etc. while Seikret is running without interrupting Seikret's running action.
+  - Please add actions that allow you to directly strip monster materials and collect rare specialties while riding a Seikret.
   - 
 </details>
   
 ### 🏘️Camp/Facility Related
 <details open> <summary>Expand</summary>
   
-  - 设施页面整理排序优化
+  - Optimize the sorting of Facility menu
     <details> <summary>Expand</summary>
       
     - 道具箱
@@ -275,7 +275,7 @@ Newly added items are marked with a '*'
         > 在加工商追加
     </details>
       
-  - 请在物质补给所追加购买捕获用麻醉球。
+  - 请在物资补给所追加购买捕获用麻醉球。
   - 请在支援柜台追加“交易船”。
     - 购买支援物资
     - 进货需求
@@ -328,4 +328,5 @@ Newly added items are marked with a '*'
   - 
 
 </details>
+
 
