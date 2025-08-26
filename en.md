@@ -7,7 +7,9 @@
 <details open> <summary>Expand</summary>  
   
   - Nu Udra's animation may stop when passing through a gap in the wall.
-
+  - Please fix the issue with the Selregios filter causing textures to look blurry.
+  - Please fix the issue with Selregios having his eyes open while sleeping.
+  - 
 </details>
   
 ### 🎮Player Related
@@ -26,10 +28,10 @@
   -
   
 #### Long Sword
-  - 请修复气刃斩Ⅲ的第三刀的看破斩与特殊纳刀的预输入窗口过早的问题，应修改为攻击结束后开启窗口。
-  - 请修复在首次练气解放无双斩释放成功后，只要后续气刃兜割未命中，则无论练气等级是否为黄色、气刃兜割是否命中都可以释放练气解放无双斩的问题。
-  - 请修复赤刃旋转斩时若开启集中模式，并向后推动摇杆，会导致额外增加一次伤害的问题。
-  - 请修复在使用气刃兜割时练气等级持续时间接近零，并开启集中模式快速晃动视角，会导致额外多降低一级练气等级的问题。
+  - Please fix the issue where the pre-input window for Foresight Slash and Special Sheathe in Spirit Slash Ⅲ's third attack opens too early. The window should be opened after the attack is completed.
+  - Please fix the issue where, after the first successful Spirit Release Slash, the Spirit Release Slash could be released as long as the subsequent Spirit Helm Breaker missed, regardless of whether the Spirit gauge level was yellow or whether the Spirit Helm Breaker hit a monster.
+  - Please fix the issue where using Spinning Crimson Slash with Focus Mode enabled and pushing the joystick backward would result in an additional hit.
+  - Please fix the issue where using the Spirit Helm Breaker while the Spirit gauge duration is close to zero and then rapidly moving the camera in Focus mode would cause the Spirit gauge to drop an additional level.
   - 
   
 #### Sword & Shield
@@ -324,4 +326,5 @@ Newly added items are marked with a '*'
   - 请回退对“据点”、“快速旅行”图示辨识度的修改，去除白底，或是增加开关。
   - 请增加“石块”、“种子”、“苔藓”、“结晶”等图示，用于区分原野中的投射器弹药，来源于怪物的角或牙齿的掉落物弹药可使用牙齿图示、而藤壶与怪物鳞片可使用鳞片图示。
   - 
+
 </details>
